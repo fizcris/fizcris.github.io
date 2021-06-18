@@ -1,2 +1,4 @@
-## Personal Portfolio of Cristian Alonso [fizcris]
+# Fizcris portfolio
+
+### Personal Portfolio of Cristian Alonso [fizcris]
 

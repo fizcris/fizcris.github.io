@@ -1,6 +1,4 @@
-# Fizcris portfolio
-
-## Personal Portfolio of Cristian Alonso [fizcris]
+# Personal Portfolio of Cristian Alonso [fizcris]
 
 
 ### [PatatasCamino.com](patastascamino.com)

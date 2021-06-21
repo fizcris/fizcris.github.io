@@ -1,7 +1,7 @@
 # Portfolio of Cristian Alonso [fizcris]
 
 
-### [PatatasCamino.com](www.patastascamino.com)
+### [PatatasCamino.com](https://www.patastascamino.com)
 
 It is my first full-stack application deployed to production. 
 It is a full ERP web application developed with [odoo](https://github.com/odoo/odoo).  
